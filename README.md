@@ -1,4 +1,4 @@
-# What-s-That-OS
+# What's That OS
 
 # Supporting This Project
 
