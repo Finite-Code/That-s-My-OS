@@ -1,4 +1,5 @@
 # What's That OS
+Hello, we are into making a website where you can search for all available custom & stock(stock coming later!) roms for your device and, Download them with a direct link either search by OS or by your Smartphone model! It's totally your choice! Again, Please contribute if you would like to!
 
 ## We Are Open-Source join us!
 
