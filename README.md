@@ -9,8 +9,13 @@ Hello, we are into making a website where you can search for all available custo
 |03|[We Are Open-Source join us!](#we-are-open-source-join-us)           |
 |04|[Pull Requests Guide](#pull-requests-guide)                          |
 |05|[Issue Guide](#issue-guide)                                          | 
-|06|[Apply for Discord Managment](#apply-for-discord-managment)          |
-|07|[Supporting This Project](#supporting-this-project)                  |
+|06|[Apply for Discord Managment!](#apply-for-discord-managment)         |  
+|07|[Apply for Maintainership!](#apply-for-maintainership)               |
+|08|[Apply for User Support!](#apply-for-user-support)                   |
+|09|[Apply for Language Distribution!](#applt-for-language-distribution) |
+|10|[Apply for User Experience!](#apply-for-user-experience)             |
+|11|[Apply for Bug-Fixing!](#apply for bug-fixing)                       |
+|12|[Supporting This Project](#supporting-this-project)                  |
 
 ## What's the AIM?
 The main aim to create this project is nothing but, Ease for you and frankly speaking money via ads for me! But yes I've gone under many efforts for this website so you can always support our project if you want to! 
