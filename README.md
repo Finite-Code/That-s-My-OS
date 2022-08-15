@@ -2,9 +2,9 @@
 Hello, we are into making a website where you can search for all available custom & stock(stock coming later!) roms for your device and, Download them with a direct link either search by OS or by your Smartphone model! It's totally your choice! Again, Please contribute if you would like to!
 
 # Table of Contents
-- [What's the AIM?](#what-s-the-aim-?)
+- [What's the AIM?](#what-s-the-aim)
 - [Joining Updates Telegram Channel](#joining-updates-telegram-channel)
-- [We Are Open-Source join us!](#we-are-open-source-join-us-!)
+- [We Are Open-Source join us!](#we-are-open-source-join-us)
 - [Pull Requests Guide](#pull-requests-guide)
 - [Issue Guide](#issue-guide)
 - [Apply for Discord Managment](#apply-for-discord-managment)
