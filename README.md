@@ -17,5 +17,8 @@ As you follow with the link below, you may also use our channel's telegram id: @
 ## We Are Open-Source join us!
 Wanna help me? Message me on telegram at @FiniteCode and please also state the reason you've messaged(of course for joining the project but please let me know that once!)🥱 And of course thanks for your support!
 
+## Applying for Discord Managment
+To Apply take the Google Form -- https://example.com
+
 ## Supporting This Project
 <a href="https://www.buymeacoffee.com/finitecode" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
