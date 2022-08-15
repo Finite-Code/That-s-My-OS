@@ -2,13 +2,17 @@
 Hello, we are into making a website where you can search for all available custom & stock(stock coming later!) roms for your device and, Download them with a direct link either search by OS or by your Smartphone model! It's totally your choice! Again, Please contribute if you would like to!
 
 # Table of Contents
-- [What's the AIM?](#what-s-the-aim)
-- [Joining Updates Telegram Channel](#joining-updates-telegram-channel)
-- [We Are Open-Source join us!](#we-are-open-source-join-us)
-- [Pull Requests Guide](#pull-requests-guide)
-- [Issue Guide](#issue-guide)
-- [Apply for Discord Managment](#apply-for-discord-managment)
-- [Supporting This Project](#supporting-this-project)
+-------------------------------------------------------------------------
+|No| Topic                                                               |
+-------------------------------------------------------------------------
+|01|[What's the AIM?](#what-s-the-aim)                                   |
+|02|[Joining Updates Telegram Channel](#joining-updates-telegram-channel)|
+|03|[We Are Open-Source join us!](#we-are-open-source-join-us)           |
+|04|[Pull Requests Guide](#pull-requests-guide)                          |
+|05|[Issue Guide](#issue-guide)                                          | 
+|06|[Apply for Discord Managment](#apply-for-discord-managment)          |
+|07|[Supporting This Project](#supporting-this-project)                  |
+-------------------------------------------------------------------------
 
 ## What's the AIM?
 The main aim to create this project is nothing but, Ease for you and frankly speaking money via ads for me! But yes I've gone under many efforts for this website so you can always support our project if you want to! 
