@@ -5,6 +5,8 @@ Hello, we are into making a website where you can search for all available custo
 - [What's the AIM?](#what-s-the-aim?)
 - [Joining Updates Telegram Channel](#joining-updates-telegram-channel)
 - [We Are Open-Source join us!](#we-are-open-source-join-us!)
+- [Pull Requests Guide](#pull-requests-guide)
+- [Issue Guide](#issue-guide)
 - [Apply for Discord Managment](#apply-for-discord-managment)
 - [Supporting This Project](#supporting-this-project)
 
@@ -13,9 +15,16 @@ The main aim to create this project is nothing but, Ease for you and frankly spe
 
 ## Joining Updates Telegram Channel
 As you follow with the link below, you may also use our channel's telegram id: @--- 
+https://example.com
 
 ## We Are Open-Source join us!
 Wanna help me? Message me on telegram at @FiniteCode and please also state the reason you've messaged(of course for joining the project but please let me know that once!)🥱 And of course thanks for your support!
+
+## Pull Requests Guide
+Lorem ipsum.
+
+## Issue Guide
+Lorem ipsum dolor sit amet.
 
 ## Applying for Discord Managment
 To Apply take the Google Form -- https://example.com
