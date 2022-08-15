@@ -14,7 +14,7 @@ Hello, we are into making a website where you can search for all available custo
 |08|[Apply for User Support!](#apply-for-user-support)                   |
 |09|[Apply for Language Distribution!](#applt-for-language-distribution) |
 |10|[Apply for User Experience!](#apply-for-user-experience)             |
-|11|[Apply for Bug-Fixing!](#apply for bug-fixing)                       |
+|11|[Apply for Bug-Fixing!](#apply-for-bug-fixing)                       |
 |12|[Supporting This Project](#supporting-this-project)                  |
 
 ## What's the AIM?
