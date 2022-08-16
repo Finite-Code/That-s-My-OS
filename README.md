@@ -34,7 +34,23 @@ Lorem ipsum.
 ## Issue Guide
 Lorem ipsum dolor sit amet.
 
-## Applying for Discord Managment
+## Applying for Discord Managment!
+To Apply take the Google Form -- https://example.com
+
+## Applying for Maintainership!
+To Apply take the Google Form -- https://example.com
+
+## Applying for User Support!
+To Apply take the Google Form -- https://example.com
+
+## Applying for Language Distribution!
+To Apply take the Google Form -- https://example.com
+
+## Applying for User Experience!
+To Apply take the Google Form -- https://example.com
+
+## Applying for Bug-Fixing!
+Also note: You'll also have to fix typos!
 To Apply take the Google Form -- https://example.com
 
 ## Supporting This Project
