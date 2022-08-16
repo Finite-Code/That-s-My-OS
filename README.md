@@ -50,7 +50,8 @@ To Apply take the Google Form -- https://example.com
 To Apply take the Google Form -- https://example.com
 
 ## Applying for Bug-Fixing!
-Also note: You'll also have to fix typos!
+<b>Also note: You'll also have to fix typos!</b>
+<br>
 To Apply take the Google Form -- https://example.com
 
 ## Supporting This Project
