@@ -17,6 +17,7 @@ We don't like things to go reallly long so, We squeezed them into a shorter form
 |10|[Apply for User Experience!](#apply-for-user-experience)             |
 |11|[Apply for Bug-Fixing!](#apply-for-bug-fixing)                       |
 |12|[Supporting This Project](#supporting-this-project)                  |
+|13|[Project Updates](#project-updates)                                  |
 
 ## What's the AIM?
 The main aim to create this project is nothing but, Ease for you and frankly speaking money via ads for me! But yes I've gone under many efforts for this website so you can always support our project if you want to! 
@@ -53,6 +54,10 @@ To Apply take the Google Form -- https://example.com
 <b>Also note: You'll also have to fix typos!</b>
 <br>
 To Apply take the Google Form -- https://example.com
+
+## Project Updates
+<b>Note: Project Updates will be moved to the site soon after it's release. The dates would announced timely</b>
+None...
 
 ## Supporting This Project
 <a href="https://www.buymeacoffee.com/finitecode" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
