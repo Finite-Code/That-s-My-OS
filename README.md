@@ -57,6 +57,7 @@ To Apply take the Google Form -- https://example.com
 
 ## Project Updates
 <b>Note: Project Updates will be moved to the site soon after it's release. The dates would announced timely</b>
+<br>
 None...
 
 ## Supporting This Project
