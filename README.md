@@ -1,6 +1,9 @@
 # What's That OS
 Hello, we are into making a website where you can search for all available custom & stock(stock coming later!) roms for your device and, Download them with a direct link either search by OS or by your Smartphone model! It's totally your choice! Again, Please contribute if you would like to!
 
+## In Other Languages
+> > :Button label=Français, url=https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Français.md
+
 # Table of Contents
 We don't like things to go reallly long so, We squeezed them into a shorter form :)
 |No| Topic                                                               |
