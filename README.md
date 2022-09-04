@@ -2,7 +2,7 @@
 Hello, we are into making a website where you can search for all available custom & stock(stock coming later!) roms for your device and, Download them with a direct link either search by OS or by your Smartphone model! It's totally your choice! Again, Please contribute if you would like to!
 
 ## In Other Languages
-[Français](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Français-French.md), [简体中文](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/简体中文-Simplified-Chinese.md), [Español](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Español-Spanish.md), [हिन्दी](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/हिन्दी-Hindi.md), [Português](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Português.md), [عربي](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Arabic-عربي.md), [عربي](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Arabic-عربي.md),
+[Français](https://github.com/sudo-Atharva/What-s-That-OS/blob/main/Readme-multi-lang/Français-French.md), [简体中文](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/简体中文-Simplified-Chinese.md), [Español](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Español-Spanish.md), [हिन्दी](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/हिन्दी-Hindi.md), [Português](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Português.md), [عربي](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Arabic-عربي.md), [عربي](https://github.com/sudo-atharva/What-s-That-OS/Readme-multi-lang/Arabic-عربي.md),
 
 # Table of Contents
 We don't like things to go reallly long so, We squeezed them into a shorter form :)
