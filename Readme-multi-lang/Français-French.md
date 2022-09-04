@@ -5,17 +5,17 @@ Bonjour, nous sommes en train de créer un site Web où vous pouvez rechercher t
 No nos gusta que las cosas duren mucho, así que las redujimos a una forma más corta :)
 |No| Tema                                                                                            |
 |--|-------------------------------------------------------------------------------------------------|
-|01|[¿Cuál es el AIM?](#cuál-es-el-objetivo)                                                         |
+|01|[Cuál es el AIM?](#cuál-es-el-objetivo)                                                          |
 |02|[Unirse al canal de actualizaciones de Telegram](#unirse-a-las-actualizaciones-canal-de-telegram)|
-|03|[¡Somos de código abierto, únase a nosotros!](#somos-de-código abierto-únase-a-nosotros)         |
+|03|[Somos de código abierto, únase a nosotros!](#somos-de-código abierto-únase-a-nosotros)          |
 |04|[Guía de solicitudes de extracción](#guía de solicitudes de extracción)                          |
 |05|[Guía de problemas](#guía-de-problemas)                                                          |
-|06|[¡Solicite la gestión de discordia!](#solicite-la-gestión-de-discord)                            |
-|07|[¡Solicite mantenimiento!](#solicite-mantenimiento)                                              |
-|08|[¡Solicite soporte para usuarios!](#solicite-para-soporte-para-usuarios)                         |
-|09|[¡Solicite distribución de idiomas!](#applt-for-language-distribution)                           |
-|10|[¡Solicite experiencia de usuario!](#solicite-experiencia-de-usuario)                            |
-|11|[¡Solicite la corrección de errores!](#solicite-la-corrección de errores)                        |
+|06|[Solicite la gestión de discordia!](#solicite-la-gestión-de-discord)                             |
+|07|[Solicite mantenimiento!](#solicite-mantenimiento)                                               |
+|08|[Solicite soporte para usuarios!](#solicite-para-soporte-para-usuarios)                          |
+|09|[Solicite distribución de idiomas!](#applt-for-language-distribution)                            |
+|10|[Solicite experiencia de usuario!](#solicite-experiencia-de-usuario)                             |
+|11|[Solicite la corrección de errores!](#solicite-la-corrección de errores)                         |
 |12|[Apoyando este proyecto](#apoyando-este-proyecto)                                                |
 |13|[Actualizaciones del proyecto](#actualizaciones-del-proyecto)                                    |
 
